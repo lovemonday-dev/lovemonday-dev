@@ -1,16 +1,13 @@
 ## Hi there 👋
+Welcome to my Github profile.
+I am a seasoned software developer with 8 years of experience.
+Implementing lots of different projects, I have achieved expert level of knowledge and experience with web-based 3D, website development.
+My skills are including.
 
-<!--
-**lovemonday-dev/lovemonday-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Three.js / WebGL
+- 🌱 JavaScript / CSS/HTML
+- 👯 React / Next,  Vue / Nuxt,  Angular / Angular Material
+- 🤔 Nodejs / Express,  PHP / Laravel,  Python / Django,  C# / .Net 
+- 💬 MySQL,  MongoDB,  PostgreSQL,  Oracle
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a clean code and dedicated commitment, I build a magic, powerful website.
