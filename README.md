@@ -2,7 +2,7 @@
 Welcome to my Github profile.
 I am a seasoned software developer with 8 years of experience.
 Implementing lots of different projects, I have achieved expert level of knowledge and experience with web-based 3D, website development.
-My skills are including.
+My skills are including:
 
 - 🔭 Three.js / WebGL
 - 🌱 JavaScript / CSS/HTML
